@@ -12,9 +12,9 @@
 ---
 
 <p align="center">
-  🌱 Building things that work reliably <br/>
-  ⚙️ Automating what shouldn’t be manual <br/>
-  🧠 Solving problems before writing code
+   Building things that work reliably <br/>
+   Automating what shouldn’t be manual <br/>
+   Solving problems before writing code
 </p>
 
 ---
@@ -47,18 +47,10 @@ Git • GitHub • VS Code • Deployment workflows
 
 ---
 
-## 🚀 What I Like Working On
-- backend logic & system design  
-- full-stack applications that actually ship  
-- automation & developer tooling  
-- improving performance and clarity  
-
----
-
 ## 🎯 Current Focus
-- strengthening DSA and problem-solving depth  
-- exploring scalable backend architectures  
-- building automation-first products  
+- Strengthening DSA and problem-solving depth  
+- Exploring scalable backend architectures  
+- Building automation-first products  
 
 ---
 
