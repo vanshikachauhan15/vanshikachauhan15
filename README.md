@@ -1,4 +1,4 @@
-# Hi 👋 I'm Vanshika Chauhan
+<h1 align="center">Hi 👋 I'm Vanshika Chauhan</h1>
 
 <p align="center">
   <b>Computer Science Undergraduate</b><br/>
