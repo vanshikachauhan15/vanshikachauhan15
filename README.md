@@ -1,4 +1,4 @@
-<h1 align="center">Vanshika Chauhan</h1>
+# Hi 👋 I'm Vanshika Chauhan
 
 <p align="center">
   <b>Computer Science Undergraduate</b><br/>
@@ -57,7 +57,7 @@ Git • GitHub • VS Code • Deployment workflows
 ## 🤝 Let’s Connect
 <p align="center">
   <a href="https://github.com/vanshikachauhan15">💻 GitHub</a> ·
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/vanshika-chauhan-049574297/)">🔗 LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/vanshika-chauhan-049574297/">🔗 LinkedIn</a> ·
   <a href="mailto:vanshu.ch15@gmail.com">📧 Email</a>
 </p>
 
