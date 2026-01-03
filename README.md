@@ -1,68 +1,71 @@
-<h2 align="center">Vanshika Chauhan</h2>
+<h1 align="center">Vanshika Chauhan</h1>
 
 <p align="center">
-Aspiring Software Engineer • Full-Stack & Backend Automation  
+  <b>Computer Science Undergraduate</b><br/>
+  Backend • Full-Stack • Automation
 </p>
 
 <p align="center">
-C / C++ • DSA • Python • Flask • React • Node.js
+  <sub>C / C++ • DSA • Python • Flask • React • Node.js</sub>
 </p>
 
 ---
 
-### About
-Computer Science undergraduate with strong foundations in **Data Structures & Algorithms** and hands-on experience in building **production-ready full-stack applications** and **deployment automation tools**.  
-Interested in backend systems, scalable architectures, and AI-assisted platforms.
+<p align="center">
+  🌱 Building things that work reliably <br/>
+  ⚙️ Automating what shouldn’t be manual <br/>
+  🧠 Solving problems before writing code
+</p>
 
 ---
 
-### Tech Stack
-**Languages**  
-C · C++ · Python · JavaScript  
+## ✨ About Me
+I enjoy working on **backend systems, automation tools, and full-stack workflows** that feel clean and intentional.  
+I focus on writing code that is **easy to understand, maintain, and scale**.
 
-**Frontend**  
-HTML · CSS · Tailwind CSS · React · Next.js  
-
-**Backend & Databases**  
-Flask · Node.js · Express · MongoDB · SQLAlchemy  
-
-**Tools & Concepts**  
-Git · GitHub · VS Code · REST APIs · Automation · DSA  
+I believe good software is:
+- simple, not clever  
+- reliable, not fragile  
+- useful, not over-engineered  
 
 ---
 
-### Selected Projects
+## 🛠️ Tech Stack
 
-**DeployX — Smart Deployment Automation Tool**  
-Automated deployment platform for GitHub-based projects.  
-- Detects and runs Python, Node.js, Streamlit & MERN apps  
-- User dashboards with deployment logs & lifecycle control  
-- AI-assisted error explanations and project management  
+### 👩‍💻 Languages
+C • C++ • Python • JavaScript  
 
-**FirstResQ — AI-Powered First Aid Assistant**  
-Semantic search-based system for context-aware first-aid guidance.  
-- Sentence-Transformer embeddings for symptom matching  
-- Secure authentication with session-based chat history  
-- Clean, responsive UI with Tailwind CSS  
+### 🎨 Frontend
+HTML • CSS • Tailwind CSS • React • Next.js  
 
-**AI Powered Study Buddy**  
-Personalized learning assistant using Python-based workflows.
+### 🔧 Backend & Databases
+Flask • Node.js • Express • MongoDB • SQLAlchemy  
+
+### 📚 Core Concepts & Tools
+Data Structures & Algorithms • REST APIs • Authentication  
+Git • GitHub • VS Code • Deployment workflows  
 
 ---
 
-### Experience
-**AI & Cloud Intern — AICTE & Edunet Foundation**  
-Worked on AI concepts, API integration, model deployment, and cloud-based automation workflows.
+## 🚀 What I Like Working On
+- backend logic & system design  
+- full-stack applications that actually ship  
+- automation & developer tooling  
+- improving performance and clarity  
 
 ---
 
-### Currently Exploring
-Backend system design · Advanced DSA · Scalable deployment pipelines
+## 🎯 Current Focus
+- strengthening DSA and problem-solving depth  
+- exploring scalable backend architectures  
+- building automation-first products  
 
 ---
 
-### Contact
-Email: vanshu.ch15@gmail.com  
-GitHub: https://github.com/vanshikachauhan15  
-LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/vanshika-chauhan-049574297/)
+## 🤝 Let’s Connect
+<p align="center">
+  <a href="https://github.com/vanshikachauhan15">💻 GitHub</a> ·
+  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/vanshika-chauhan-049574297/)">🔗 LinkedIn</a> ·
+  <a href="mailto:vanshu.ch15@gmail.com">📧 Email</a>
+</p>
 
